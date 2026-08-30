@@ -1,5 +1,5 @@
 ---
-title: Agent Session History
+title: Agent session history
 source: https://www.onorca.dev/docs/agents/session-history
 ---
 
